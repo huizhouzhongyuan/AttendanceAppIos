@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>huizhou.centaline.Attendance</string>
 				<key>bundle-version</key>
-				<string>2.7.0</string>
+				<string>2.6.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>12-口袋中原测试版2.7.0</string>
+				<string>12-口袋中原测试版2.6.0</string>
 			</dict>
 		</dict>
 	</array>
